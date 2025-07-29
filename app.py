@@ -1,4 +1,3 @@
-############################################CREATED BY MUHAMMAD HANAN ASGHAR#################################
 from tkinter import *
 import tkinter.messagebox as tmsg
 import sqlite3 as sq
@@ -232,4 +231,3 @@ if __name__ == "__main__":
     l = Login(root)
     root.mainloop()
     
-    ############################################CREATED BY MUHAMMAD HANAN ASGHAR#################################
